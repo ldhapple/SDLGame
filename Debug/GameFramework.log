@@ -1,0 +1,46 @@
+﻿  AnimateGraphic.cpp
+C:\Users\Administrator\Desktop\GameFramework\Game.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Bullet.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Floor.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Game.cpp
+C:\Users\Administrator\Desktop\GameFramework\Game.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  GameStateManager.cpp
+  InputHandler.cpp
+C:\Users\Administrator\Desktop\GameFramework\InputHandler.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  main.cpp
+C:\Users\Administrator\Desktop\GameFramework\Game.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  MenuButton.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  MenuState.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Player.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Player1.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Player1WinState.cpp
+C:\Users\Administrator\Desktop\GameFramework\Game.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Player2.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Player2WinState.cpp
+C:\Users\Administrator\Desktop\GameFramework\Game.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  PlayState.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  SDLGameObject.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  TextureManager.cpp
+C:\Users\Administrator\Desktop\GameFramework\TextureManager.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  JustImage.cpp
+C:\Users\Administrator\Desktop\GameFramework\Vector2D.h(61,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\GameFramework\SDLGameObject.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  코드를 생성하고 있습니다...
